@@ -1,24 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b65712b-f4c0-4bb5-a92a-ef62b45fc962" name="Default Changelist" comment="Testing gatsby">
-      <change afterPath="$PROJECT_DIR$/src/components/SimpleHero.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/css/footer.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/css/navbar.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/link.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constants/social-icons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/blogBcg.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/connectBcg.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/defaultBcg.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/icon.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/logo.svg" afterDir="false" />
+    <list default="true" id="8b65712b-f4c0-4bb5-a92a-ef62b45fc962" name="Default Changelist" comment="Navbar.js and Footer.js is completed">
+      <change afterPath="$PROJECT_DIR$/src/components/Banner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/css/banner.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/SimpleHero.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SimpleHero.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608225978115</updated>
-      <workItem from="1608225981149" duration="14739000" />
+      <workItem from="1608225981149" duration="16473000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize gatsby project">
       <created>1608227789541</created>
@@ -90,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608268177595</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Navbar.js and Footer.js is completed">
+      <created>1608288453461</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608288453461</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +105,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initialize gatsby project" />
     <MESSAGE value="Testing gatsby" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing gatsby" />
+    <MESSAGE value="Navbar.js and Footer.js is completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Navbar.js and Footer.js is completed" />
   </component>
 </project>

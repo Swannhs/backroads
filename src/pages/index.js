@@ -1,14 +1,20 @@
 import React from "react"
-import { Link } from "gatsby"
 import Layout from "../components/Layout"
-import { FaFonticonsFi } from "react-icons/fa";
+import SimpleHero from "../components/SimpleHero"
+import Banner from "../components/Banner"
+import { Link } from "gatsby"
 
 const home = () => {
   return (
     <>
       <Layout>
-        hello from home<Link to="/blog">{FaFonticonsFi()}</Link>
-
+        <SimpleHero>
+          <Banner title="continue exploring" info="The quitter you become the you become able to hear">
+            <Link to="/tours" className="btn-white">
+              Explore
+            </Link>
+          </Banner>
+        </SimpleHero>
       </Layout>
     </>
   )
