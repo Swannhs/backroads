@@ -2,7 +2,9 @@ import React from "react"
 import Layout from "../components/Layout"
 import SimpleHero from "../components/SimpleHero"
 import Banner from "../components/Banner"
+import Button from "../components/examples/Button"
 import { Link } from "gatsby"
+
 
 const home = () => {
   return (
@@ -10,9 +12,14 @@ const home = () => {
       <Layout>
         <SimpleHero>
           <Banner title="continue exploring" info="The quitter you become the you become able to hear">
-            <Link to="/tours" className="btn-white">
-              Explore
-            </Link>
+            Nothing is Impossible
+            <Button>
+              <button className="buttons btn-hover color-1">
+                  <Link to='/tours'>
+                    Explore
+                  </Link>
+              </button>
+            </Button>
           </Banner>
         </SimpleHero>
       </Layout>
