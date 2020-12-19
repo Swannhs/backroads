@@ -4,6 +4,8 @@ import SimpleHero from "../components/SimpleHero"
 import Banner from "../components/Banner"
 import Button from "../components/examples/Button"
 import { Link } from "gatsby"
+import About from "../components/home/About"
+import Services from "../components/home/Services"
 
 
 const home = () => {
@@ -22,6 +24,8 @@ const home = () => {
             </Button>
           </Banner>
         </SimpleHero>
+        <About/>
+        <Services/>
       </Layout>
     </>
   )
