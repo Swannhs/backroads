@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b65712b-f4c0-4bb5-a92a-ef62b45fc962" name="Default Changelist" comment="About and Service section is added">
-      <change afterPath="$PROJECT_DIR$/src/components/contact/Contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/css/blog-card.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/css/blog.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/css/contact.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/css/day.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/css/error.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/css/items.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/css/single-blog.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/css/template.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/css/tour.module.css" afterDir="false" />
+    <list default="true" id="8b65712b-f4c0-4bb5-a92a-ef62b45fc962" name="Default Changelist" comment="Testing some process">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/css/navbar.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/css/navbar.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/contact.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/home/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/home/About.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +64,7 @@
       <workItem from="1608225981149" duration="19521000" />
       <workItem from="1608300354485" duration="634000" />
       <workItem from="1608314895392" duration="5668000" />
-      <workItem from="1608359091288" duration="6166000" />
+      <workItem from="1608359091288" duration="6900000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize gatsby project">
       <created>1608227789541</created>
@@ -118,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608367672471</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Testing some process">
+      <created>1608371673515</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1608371673515</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +140,7 @@
     <MESSAGE value="Banner.js is added" />
     <MESSAGE value="Styled Components added and fix 404 page" />
     <MESSAGE value="About and Service section is added" />
-    <option name="LAST_COMMIT_MESSAGE" value="About and Service section is added" />
+    <MESSAGE value="Testing some process" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing some process" />
   </component>
 </project>

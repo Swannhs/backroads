@@ -2,7 +2,6 @@ import React from "react"
 import Title from "../Title"
 import image from "../../../static/images/defaultBcg.jpeg"
 import style from "../css/about.module.css"
-import Services from "./Services"
 
 const About = () => {
   return (
